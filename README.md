@@ -1,1 +1,1 @@
-# la-aws-security_specialty
+# lab-1-code-scan
